@@ -1,2 +1,4 @@
-# mark_v5.5
+# mark
  GeoLocation Based Social Media App
+ You can add people and play geoguesser off snapshots of peoples selfies
+ I was really fucking bored
