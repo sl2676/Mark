@@ -1,0 +1,173 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ArgentumSans-Black.ttf",
+      "sha1": "75b810ed023c92ffcccaf92d779d233428ba9923"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-BlackItalic.ttf",
+      "sha1": "bd353b1b1c6c17c3f60da4063d3170d461ad4ad0"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-Bold.ttf",
+      "sha1": "546a35c7ed435222287ebc508439be719d0c8641"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-BoldItalic.ttf",
+      "sha1": "6455823fc83dcdc4e62a19c1c677116bac17b5f7"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-ExtraBold.ttf",
+      "sha1": "31b012987f73d1fc12667f4e11138008ab927e2c"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-ExtraBoldItalic.ttf",
+      "sha1": "2fd9c0bdd264d58c6207b236626e2b2e1367832b"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-ExtraLight.ttf",
+      "sha1": "6a88f64da12d895070b4018907d1d4901e1ed13f"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-ExtraLightItalic.ttf",
+      "sha1": "2319ba705f87fe295c5820253c88246d4ab00062"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-Italic.ttf",
+      "sha1": "991974b49e6085b7dbe226e7860cdcce07f92f02"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-Light.ttf",
+      "sha1": "9547ada084a363c293f45e1e9f30aba25fcc31d1"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-LightItalic.ttf",
+      "sha1": "b6a208f9c34f490cbb37e169a76d8537cfc74337"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-Medium.ttf",
+      "sha1": "dee0ed245b8e244d4e11ab2399d863bda2ae21af"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-MediumItalic.ttf",
+      "sha1": "d25a216d8a79980f4b69f9ca4845e598983b8dbb"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-Regular.ttf",
+      "sha1": "b56b1912c12d307efa8b522746de4f3b0b15fd26"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-SemiBold.ttf",
+      "sha1": "99df4e225fff1e4deb21779bba972eba554f319c"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-SemiBoldItalic.ttf",
+      "sha1": "178131ea1d28ebd5e616e3f828e2f91338504228"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-Thin.ttf",
+      "sha1": "568cde6adbb5cf1c6aed411f80013f63c18b87da"
+    },
+    {
+      "path": "assets/fonts/ArgentumSans-ThinItalic.ttf",
+      "sha1": "ca1e7327807628133bb3217b801a0544e93106bc"
+    },
+    {
+      "path": "assets/fonts/Barlow-Black.ttf",
+      "sha1": "c2c54ecfd66ca2cdb199d0d4edd5df5c085b6a00"
+    },
+    {
+      "path": "assets/fonts/Barlow-BlackItalic.ttf",
+      "sha1": "ab4dd23dacfca82a752feb7e45157999f4093031"
+    },
+    {
+      "path": "assets/fonts/Barlow-Bold.ttf",
+      "sha1": "125f8356aff80cc916d7e6faf65403e7855a7830"
+    },
+    {
+      "path": "assets/fonts/Barlow-BoldItalic.ttf",
+      "sha1": "3bfa8241937409444e246de8799d06ef5d2df2d7"
+    },
+    {
+      "path": "assets/fonts/Barlow-ExtraBold.ttf",
+      "sha1": "75008f7be056a668d4260345e0daa789a6dd89ba"
+    },
+    {
+      "path": "assets/fonts/Barlow-ExtraBoldItalic.ttf",
+      "sha1": "fa608c10ab4a012df78a2e63b8edebf013b0e93c"
+    },
+    {
+      "path": "assets/fonts/Barlow-ExtraLight.ttf",
+      "sha1": "1ced02023a0123daf7093848ac8ecc50a0f46291"
+    },
+    {
+      "path": "assets/fonts/Barlow-ExtraLightItalic.ttf",
+      "sha1": "93c681376248082891fe7a9aea0ac01c5a604a79"
+    },
+    {
+      "path": "assets/fonts/Barlow-Italic.ttf",
+      "sha1": "12f3f03058483786b496b474d6cf529f85f26ca6"
+    },
+    {
+      "path": "assets/fonts/Barlow-Light.ttf",
+      "sha1": "33b85e1af98c8f529cd54d7063973423a21c8a5a"
+    },
+    {
+      "path": "assets/fonts/Barlow-LightItalic.ttf",
+      "sha1": "4b5f53ada20377cb9eec6d808eeeaee5dd59db97"
+    },
+    {
+      "path": "assets/fonts/Barlow-Medium.ttf",
+      "sha1": "0916026cd2018552438972747cf392a8830711f3"
+    },
+    {
+      "path": "assets/fonts/Barlow-MediumItalic.ttf",
+      "sha1": "3098dbca402add7b5d5a129cd1332cdcbe37cb18"
+    },
+    {
+      "path": "assets/fonts/Barlow-Regular.ttf",
+      "sha1": "99d01442361136a19d42ef7edb4cba35557a146f"
+    },
+    {
+      "path": "assets/fonts/Barlow-SemiBold.ttf",
+      "sha1": "fcde6cc11a5f93d21bf7d94f561fa6421e580662"
+    },
+    {
+      "path": "assets/fonts/Barlow-SemiBoldItalic.ttf",
+      "sha1": "ae9d4addf6ca81d06540577399bc1733dd89f143"
+    },
+    {
+      "path": "assets/fonts/Barlow-Thin.ttf",
+      "sha1": "69b084c050259ced1592233b1953d3eed8d954ab"
+    },
+    {
+      "path": "assets/fonts/Barlow-ThinItalic.ttf",
+      "sha1": "a92e939c363c47fcd9e6e40a76d77a204311b6a6"
+    },
+    {
+      "path": "assets/fonts/Fredoka dingbats.otf",
+      "sha1": "568eec2fb72599bccc18f35ac26e1eb2951a000e"
+    },
+    {
+      "path": "assets/fonts/Fredoka dingbats.ttf",
+      "sha1": "cabdab81f9a8fd995271052c041c675c0c654289"
+    },
+    {
+      "path": "assets/fonts/FredokaOne-Regular.otf",
+      "sha1": "ca0f6492fb3f5c8f957659b1976ad8b9937503ea"
+    },
+    {
+      "path": "assets/fonts/FredokaOne-Regular.ttf",
+      "sha1": "e971488ad7ae939707952d27903d128bddab861a"
+    },
+    {
+      "path": "assets/fonts/PatinioBasica.ttf",
+      "sha1": "6d0b20d2b522cf0c69b6e2213cea9a64989e02c7"
+    },
+    {
+      "path": "assets/fonts/Tailwind Regular.ttf",
+      "sha1": "afb48d62f92a0840e6a2a05bf2b194c350c240d7"
+    }
+  ]
+}

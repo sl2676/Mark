@@ -1,0 +1,48 @@
+						if ( firstReq === false ) {
+							setErrorText('Minimum 8 char/contains a whitespace');
+						} else if ( secReq === false ) {
+							setErrorText('Needs at least two digits');
+						} else if ( thirdReq === false ) { 
+							setErrorText('Needs at least a capital letter');
+						} else if ( fourthReq === false ) {
+							setErrorText('Needs at least one special char');
+						} else if ( firstReq === true && secReq === true && thirdReq === true && fourthReq === true ) {
+							console.log('LOGIN NOW ')
+						} else {
+							setErrorText('');
+						}
+						console.log(firstReq)
+
+<View>
+					<PhoneInput
+						ref={phoneInput}
+						defaultValue={value}
+						defaultCode="US"
+						layout="first"
+						onChangeText={(text) => {
+							setValue(text);
+						}}				
+						onChangeFormattedText={(text) => {
+							setFormattedValue(text);
+						}}
+						containerStyle = {{
+							backgroundColor: 'white',
+							marginTop: 100,
+							borderRadius: 8,
+							
+						}}
+						textContainerStyle = {{
+							backgroundColor: 'white',
+							borderRadius: 8							
+						}}
+						textInputStyle = {{
+							fontFamily: 'ArgentumSans-Black',
+							fontSize: 20
+						}}
+						
+						countryPickerProps={{ withAlphaFilter: true }}
+						withShadow
+						withDarkTheme
+						autoFocus			
+					/>
+				</View>
